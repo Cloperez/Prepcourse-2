@@ -1,2 +1,1 @@
-# Prepcourse-2
-prueba 2 repositorio henry
+prueba 2 curso para crear y clonar repositorio desde github a mi pc
